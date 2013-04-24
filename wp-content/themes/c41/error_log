@@ -1,0 +1,5 @@
+[10-Jan-2013 00:11:40] PHP Fatal error:  Call to undefined function  get_header() in /home1/cfouoneo/public_html/wp-content/themes/c41/index.php on line 1
+[10-Jan-2013 04:15:47] PHP Fatal error:  Call to undefined function  get_header() in /home1/cfouoneo/public_html/wp-content/themes/c41/index.php on line 1
+[10-Jan-2013 11:23:49] PHP Fatal error:  Call to undefined function  get_header() in /home1/cfouoneo/public_html/wp-content/themes/c41/index.php on line 1
+[10-Jan-2013 17:04:32] PHP Fatal error:  Call to undefined function  get_header() in /home1/cfouoneo/public_html/wp-content/themes/c41/index.php on line 1
+[10-Jan-2013 23:07:13] PHP Fatal error:  Call to undefined function  get_header() in /home1/cfouoneo/public_html/wp-content/themes/c41/index.php on line 1

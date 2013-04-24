@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2012-26-12 15:18:15 00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI ZONE\n"
+"Last-Translator: FULL NAME \n"
+"Language-Team: LANGUAGE \n"
+
+msgid "Concepción 41"
+msgstr ""
+
+msgid "Now"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Co-Blog"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+msgid "Read More"
+msgstr ""
+
+msgid "See All Projects"
+msgstr ""
+
+msgid "Go To Blog"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Newsletter"
+msgstr ""
+
+msgid "Posted By"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Older Entries"
+msgstr ""
+
+msgid "Newer Entries"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Back To Projects"
+msgstr ""
+
+msgid "Back To Co-Blog"
+msgstr ""
+
+msgid "Featured Video"
+msgstr ""
+
+msgid "Press"
+msgstr ""
+
+msgid "View Images"
+msgstr ""

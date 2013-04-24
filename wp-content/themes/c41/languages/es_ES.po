@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: C41-1.0\n"
+"POT-Creation-Date: 2012-26-12 15:18:15 00:00\n"
+"PO-Revision-Date: 2013-01-08 10:35-0600\n"
+"Last-Translator: Pablo Rubio <rubpablo@gmail.com>\n"
+"Language-Team: Ambush Studio <ambushstudio@gmail.com>\n"
+"Language: Español\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Concepción 41"
+msgstr "Concepción 41"
+
+msgid "Now"
+msgstr "Ahora"
+
+msgid "Projects"
+msgstr "Proyectos"
+
+msgid "People"
+msgstr "Gente"
+
+msgid "Co-Blog"
+msgstr "Co-Blog"
+
+msgid "Links"
+msgstr "Enlaces"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "See All Projects"
+msgstr "Ver Todos Los Proyectos"
+
+msgid "Go To Blog"
+msgstr "Ir Al Blog"
+
+msgid "Search"
+msgstr "Búsqueda"
+
+msgid "Newsletter"
+msgstr "Suscríbete"
+
+msgid "Posted By"
+msgstr "Publicado Por"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Older Entries"
+msgstr "Anterior"
+
+msgid "Newer Entries"
+msgstr "Más Reciente"
+
+msgid "Archive"
+msgstr "Archivo"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Back To Projects"
+msgstr "Regresar A Proyectos"
+
+msgid "Back To Co-Blog"
+msgstr "Regresar A Co-Blog"
+
+msgid "Featured Video"
+msgstr "Video Destacado"
+
+msgid "Press"
+msgstr "Prensa"

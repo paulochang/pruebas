@@ -1,0 +1,38 @@
+/* 
+    Document   : typography
+    Created on : 16-dic-2012, 22:29:10
+    Author     : pablo
+    Description:
+        CSS Font Face Definitions.
+*/
+
+
+@font-face {
+  font-family: MuseoSans;
+  src: url('../fonts/MuseoSans.eot');
+  src: url('../fonts/MuseoSans.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MuseoSans.otf') format('opentype'),
+    url('../fonts/MuseoSans.woff') format('woff'),
+    url('../fonts/MuseoSans.svg#MuseoSans') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.museo-sans {
+  font-family: MuseoSans;
+}
+
+@font-face {
+  font-family: MuseoSans300;
+  src: url('../fonts/MuseoSans300.eot');
+  src: url('../fonts/MuseoSans300.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MuseoSans300.otf') format('opentype'),
+    url('../fonts/MuseoSans300.woff') format('woff'),
+    url('../fonts/MuseoSans300.svg#MuseoSans-300') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.museo-sans-300 {
+  font-family: MuseoSans300;
+}

@@ -1,0 +1,212 @@
+/* 
+    Document   : utils
+    Created on : 16-dic-2012, 19:45:59
+    Author     : pablo
+    Description:
+        Common Used CSS Classes
+*/
+
+/* Float
+*/
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+/* Text
+*/
+
+.txt-center {
+  text-align: center;
+}
+
+.txt-left {
+  text-align: left;
+}
+
+.txt-right {
+  text-align: right;
+}
+
+.txt-bold {
+  font-weight: bold;
+}
+
+.txt-italic {
+  font-style: italic;
+}
+
+.txt-middle {
+  vertical-align: middle;
+}
+
+/* Text Transform
+*/
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+/* Cursor
+*/ 
+
+.pointer {
+  cursor: pointer;
+}
+
+/* Position
+*/
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.fixed {
+  position: absolute;
+  position: fixed;
+}
+
+.margin-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Display
+*/
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.no-display {
+  display: none;
+}
+
+/* Opacity
+*/
+
+.opacity-hidden {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+}
+
+.opacity-hidden-hover:hover {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+}
+
+.opacity-background {
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+}
+
+.opacity-visible {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+}
+
+.opacity-visible-hover:hover {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+}
+
+/* Background
+*/
+
+.background-white {
+  background-color: #ffffff;
+}
+
+.background-white {
+  background-color: #ffffff;
+}
+
+.no-repeat {
+  background-repeat: no-repeat;
+}
+
+/* Color
+*/
+
+.black {
+  color: #000000;
+}
+
+.white {
+  color: #ffffff;
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Template Utilities
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.border-top {
+  border-top: 1px dotted #1D1D1B;
+}
+
+.border-left {
+  border-left: 1px dotted #1D1D1B;
+}
+
+.border-bottom {
+  border-bottom: 1px dotted #1D1D1B;
+}
+
+.border-right {
+  border-right: 1px dotted #1D1D1B;
+}
+
+.border-all {
+  border: 1px dotted #1D1D1B;
+}
+
+.line-through:hover {
+  text-decoration: line-through;
+}
+
+.txt-content p {
+  font-size: 12px;
+  padding: 10px 20px;
+}
+
+.fixed-width {
+  width: 622px;
+}
+
+.fb-like {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+  background-image: url('../images/fb-like.png');
+  background-repeat: repeat;
+}

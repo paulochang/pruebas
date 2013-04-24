@@ -1,0 +1,86 @@
+/* 
+    Document   : transitions
+    Created on : 16-dic-2012, 20:12:37
+    Author     : pablo
+    Description:
+        CSS3 Transition Classes.
+*/
+
+.transition-background-image {
+  transition: background-image 600ms ease-in-out;
+  -o-transition: background-image 600ms ease-in-out;
+  -moz-transition: background-image 600ms ease-in-out;
+  -webkit-transition: background-image 600ms ease-in-out;
+}
+
+.transition-background-color {
+  transition: background-color 600ms ease-in-out;
+  -o-transition: background-color 600ms ease-in-out;
+  -moz-transition: background-color 600ms ease-in-out;
+  -webkit-transition: background-color 600ms ease-in-out;
+}
+
+.transition-background {
+  transition: background 600ms ease-in-out;
+  -o-transition: background 600ms ease-in-out;
+  -moz-transition: background 600ms ease-in-out;
+  -webkit-transition: background 600ms ease-in-out;
+}
+
+.transition-color {
+  transition: color 600ms ease-in-out;
+  -o-transition: color 600ms ease-in-out;
+  -moz-transition: color 600ms ease-in-out;
+  -webkit-transition: color 600ms ease-in-out;
+}
+
+.transition-opacity {
+  transition: opacity 600ms ease-in-out;
+  -o-transition: opacity 600ms ease-in-out;
+  -moz-transition: opacity 600ms ease-in-out;
+  -webkit-transition: opacity 600ms ease-in-out;
+}
+
+.transition-visibility {
+  transition: visibility 0.1s linear 600ms;
+  -o-transition: visibility 0.1s linear 600ms;
+  -moz-transition: visibility 0.1s linear 600ms;
+  -webkit-transition: visibility 0.1s linear 600ms;
+}
+
+.transition-width {
+  transition: width 600ms ease-in-out;
+  -o-transition: width 600ms ease-in-out;
+  -moz-transition: width 600ms ease-in-out;
+  -webkit-transition: width 600ms ease-in-out;
+}
+
+.transition-height {
+  transition: height 600ms ease-in-out;
+  -o-transition: height 600ms ease-in-out;
+  -moz-transition: height 600ms ease-in-out;
+  -webkit-transition: height 600ms ease-in-out;
+}
+
+.transition-left {
+  transition: left 600ms ease-in-out;
+  -o-transition: left 600ms ease-in-out;
+  -moz-transition: left 600ms ease-in-out;
+  -webkit-transition: left 600ms ease-in-out;
+}
+
+.transition-all {
+
+  transition: all 600ms ease-in-out;
+  -o-transition: all 600ms ease-in-out;
+  -moz-transition: all 600ms ease-in-out;
+  -webkit-transition: all 600ms ease-in-out;
+}
+
+.transition-margin-left {
+
+  transition: margin-left 600ms ease-in-out;
+  -o-transition: margin-left 600ms ease-in-out;
+  -moz-transition: margin-left 600ms ease-in-out;
+  -webkit-transition: margin-left 600ms ease-in-out;
+}
